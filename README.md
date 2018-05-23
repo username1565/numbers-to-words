@@ -1,5 +1,5 @@
 # numbers_to_words
-This is HTML page with JavaScript-code to do convert big numbers to Engilsh words in browser. \n
+This is HTML page with JavaScript-code to do convert big numbers to Engilsh words in browser. <br>
   Short scale. Scales from here: http://users.skynet.be/nizgorur/very_big_numbers.htm \n
     Scales for 10^N, where N from 0 to 3003 with step 3. \n
   Supporting negative numbers - added. \n
