@@ -12,3 +12,5 @@ This is HTML page with JavaScript-code to do convert big numbers to Engilsh word
   - Put tests in separate function.
   - Put this script to js-file, and include this in html-page.
   - Now this file in the folder index_files/js, and this is autocopyable when index.html copied.
+
+This page available here: https://username1565.github.io/numbers-to-words/
